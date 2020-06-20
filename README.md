@@ -1,2 +1,2 @@
 # Cutscenify
-The official GitHub repository for the Cutscenify plugin for Roblox Studio (THIS DOES NOT CONTAIN CUTSCENIFY'S SOURCE CODE).
+Welcome to the official GitHub repository for the Cutscenify plugin for Roblox Studio! Please note that this repository does not contain the source code for Cutscenify.
